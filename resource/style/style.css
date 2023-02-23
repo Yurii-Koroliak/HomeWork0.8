@@ -2,7 +2,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-    transition: 1s;
+    transition: all 0.4s;
 }
 
 :root {
